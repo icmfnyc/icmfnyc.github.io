@@ -262,7 +262,7 @@ nav ul li a {
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
-  padding-top: 80px;
+  padding-top: 30px;
 }
 
 .header-content h1 {
@@ -301,7 +301,7 @@ nav ul li a {
   width: 100%;
   height: auto;
   background: #ffffff;
-  padding-top: 90px;
+  padding-top: 30px;
 }
 
 #about .div-img-bg {
