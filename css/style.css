@@ -301,7 +301,7 @@ nav ul li a {
   width: 100%;
   height: auto;
   background: #ffffff;
-  padding-top: 190px;
+  padding-top: 90px;
 }
 
 #about .div-img-bg {
@@ -348,7 +348,7 @@ nav ul li a {
 #services {
   background: #ffffff;
   position: relative;
-  padding-bottom: 80px;
+  padding-bottom: 30px;
 }
 
 .owl-item {
@@ -414,7 +414,7 @@ nav ul li a {
 #portfolio {
   background-color: #ffffff;
   position: relative;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 #portfolio .portfolio-list {
