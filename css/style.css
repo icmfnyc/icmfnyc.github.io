@@ -32,22 +32,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  color: #292929;
+  color: #fb9293;
   font-weight: 600;
 }
 
 h4 {
-  color: #292929;
+  color: #fb9293;
   font-size: 14px;
   font-weight: 600;
 }
 
 h5 {
-  color: #b8a07e;
+  color: #fb9293;
 }
 
 a {
-  color: #fb9293;
+  color: #ffffff;
   text-decoration: none !important;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -65,7 +65,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #cff331;
+  color: #fb9293;
   text-decoration: underline;
 }
 
@@ -95,12 +95,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #cff331;
+  background: #fb9293;
   color: #fff;
 }
 
 ::selection {
-  background: #cff331;
+  background: #fb9293;
   color: #fff;
 }
 
@@ -300,13 +300,13 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #fb9293;
+  background: #ffffff;
   padding-top: 190px;
 }
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #fb9293;
+  border: 20px solid #ffffff;
 }
 
 #about .about-img img {
@@ -346,7 +346,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #services {
-  background: #fb9293;
+  background: #ffffff;
   position: relative;
   padding-bottom: 80px;
 }
@@ -358,7 +358,7 @@ nav ul li a {
   margin: 10px 0;
   position: relative;
   font-size: 13px;
-  color: #292929;
+  color: #fb9293;
   letter-spacing: 0.1em;
   font-weight: 500;
   display: block;
@@ -412,7 +412,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #portfolio {
-  background-color: #fb9293;
+  background-color: #ffffff;
   position: relative;
   padding-bottom: 50px;
 }
@@ -430,7 +430,7 @@ nav ul li a {
   margin: 0 40px 0 0;
   float: left;
   font-size: 14px;
-  color: #cff331;
+  color: #fb9293;
   line-height: 16px;
   cursor: pointer;
   font-family: 'Poppins', helvetica;
@@ -528,7 +528,7 @@ nav ul li a {
 #journal,  #journal-blog {
   height: auto;
   width: 100%;
-  background: #fb9293;
+  background: #ffffff;
   padding-bottom: 60px;
   position: relative;
 }
@@ -647,7 +647,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #fb9293;
+  background: #ffffff;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -683,7 +683,7 @@ nav ul li a {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #fb9293;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -715,7 +715,7 @@ nav ul li a {
 } */
 
 .btn-home {
-  background: #fb9293;
+  background: #ffffff;
   border: 1px solid #fb9293;
   color: #fff;
   cursor: pointer;
@@ -737,7 +737,7 @@ nav ul li a {
 .btn-app {
   background: inherit;
   border: 1px solid #fb9293;
-  color: #b8a07e;
+  color: #fb9293;
   cursor: pointer;
   letter-spacing: 0.5px;
   text-transform: uppercase;
@@ -750,7 +750,7 @@ nav ul li a {
 
 .btn-app:hover {
   color: white;
-  background: #b8a07e;
+  background: #fb9293;
 }
 
 .divider{
@@ -774,5 +774,5 @@ nav ul li a {
 }
 
 .icon{
-  color: #b8a07e;
+  color: #fb9293;
 }
