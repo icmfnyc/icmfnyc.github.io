@@ -11,7 +11,7 @@
 
 body {
   background: #ffffff;
-  color: #898989;
+  color: #ffffff;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -182,7 +182,7 @@ p {
 
 nav {
   position: fixed;
-  background: #fb9293;
+  background: #ffffff;
   z-index: 1000;
   width: 100%;
   padding: 20px;
@@ -212,7 +212,7 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 14px;
-  color: #fb9293;
+  color: #ffffff;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
   line-height: 16px;
@@ -475,7 +475,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #artist {
-  background-color: #fff;
+  background-color: #fb9293;
   position: relative;
   padding-bottom: 50px;
 }
@@ -572,7 +572,7 @@ nav ul li a {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #fb9293;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -647,7 +647,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #f7f7f7;
+  background: #fb9293;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -715,8 +715,8 @@ nav ul li a {
 } */
 
 .btn-home {
-  background: #b8a07e;
-  border: 1px solid #b8a07e;
+  background: #fb9293;
+  border: 1px solid #fb9293;
   color: #fff;
   cursor: pointer;
   letter-spacing: 0.5px;
@@ -736,7 +736,7 @@ nav ul li a {
 
 .btn-app {
   background: inherit;
-  border: 1px solid #b8a07e;
+  border: 1px solid #fb9293;
   color: #b8a07e;
   cursor: pointer;
   letter-spacing: 0.5px;
