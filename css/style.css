@@ -500,8 +500,8 @@ nav ul li a {
   bottom: 0;
   text-align: center;
   opacity: 0;
-  color: #fb9293;
-  background: rgb(184, 160, 126, 0.9);
+  color: #ffffff;
+  background: #fb9293;
   transition: opacity 0.25s ease;
   text-align: center;
 }
