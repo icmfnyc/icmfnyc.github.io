@@ -212,7 +212,7 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 14px;
-  color: #ffffff;
+  color: #fb9293;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
   line-height: 16px;
@@ -236,7 +236,7 @@ nav ul li a {
 }
 
 .active {
-  color: #fcb1b1;
+  color: #cff331;
 }
 
 /*----------------------------------------------------------------------------------*/
@@ -500,7 +500,7 @@ nav ul li a {
   bottom: 0;
   text-align: center;
   opacity: 0;
-  color: #fff;
+  color: #fb9293;
   background: rgb(184, 160, 126, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
