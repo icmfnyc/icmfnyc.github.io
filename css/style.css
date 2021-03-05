@@ -372,7 +372,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #fb9293;
   line-height: 44px;
 }
 
@@ -475,7 +475,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #artist {
-  background-color: #fb9293;
+  background-color: #ffffff;
   position: relative;
   padding-bottom: 50px;
 }
@@ -730,7 +730,7 @@ nav ul li a {
 }
 
 .btn-home:hover {
-  color: #b8a07e;
+  color: #fb9293;
   background: white;
 }
 
