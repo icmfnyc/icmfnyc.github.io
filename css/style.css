@@ -47,7 +47,7 @@ h5 {
 }
 
 a {
-  color: #292929;
+  color: #fb9293;
   text-decoration: none !important;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -65,7 +65,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: #cff331;
   text-decoration: underline;
 }
 
@@ -95,12 +95,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #cff331;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #cff331;
   color: #fff;
 }
 
@@ -182,7 +182,7 @@ p {
 
 nav {
   position: fixed;
-  background: #fff;
+  background: #fb9293;
   z-index: 1000;
   width: 100%;
   padding: 20px;
@@ -212,7 +212,7 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 14px;
-  color: #999999;
+  color: #fb9293;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
   line-height: 16px;
@@ -236,7 +236,7 @@ nav ul li a {
 }
 
 .active {
-  color: #afafaf;
+  color: #fcb1b1;
 }
 
 /*----------------------------------------------------------------------------------*/
@@ -294,19 +294,19 @@ nav ul li a {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*  Aout-us
+/*  About
 /*-----------------------------------------------------------------------------------*/
 
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background: #fb9293;
   padding-top: 190px;
 }
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #fb9293;
 }
 
 #about .about-img img {
@@ -346,7 +346,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #services {
-  background: #f7f7f7;
+  background: #fb9293;
   position: relative;
   padding-bottom: 80px;
 }
@@ -412,7 +412,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #portfolio {
-  background-color: #f7f7f7;
+  background-color: #fb9293;
   position: relative;
   padding-bottom: 50px;
 }
@@ -430,7 +430,7 @@ nav ul li a {
   margin: 0 40px 0 0;
   float: left;
   font-size: 14px;
-  color: #999999;
+  color: #cff331;
   line-height: 16px;
   cursor: pointer;
   font-family: 'Poppins', helvetica;
@@ -445,7 +445,7 @@ nav ul li a {
 }
 
 #portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
-  color: #b8a07e;
+  color: #fb9293;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -528,7 +528,7 @@ nav ul li a {
 #journal,  #journal-blog {
   height: auto;
   width: 100%;
-  background: #f7f7f7;
+  background: #fb9293;
   padding-bottom: 60px;
   position: relative;
 }
