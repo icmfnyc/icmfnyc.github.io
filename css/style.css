@@ -11,7 +11,7 @@
 
 body {
   background: #ffffff;
-  color: #ffffff;
+  color: #9c9c9c;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -47,7 +47,7 @@ h5 {
 }
 
 a {
-  color: #ffffff;
+  color: #9c9c9c;
   text-decoration: none !important;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -165,11 +165,11 @@ p {
 }
 
 .hvr-shutter-in-horizontal::before {
-  background: #333;
+  background: #cff331;
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #cff331;
 }
 
 .mb-30 {
@@ -399,7 +399,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #fb9293;
 }
 
 .owl-nav {
